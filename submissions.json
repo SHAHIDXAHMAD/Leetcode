@@ -1,5 +1,14 @@
 [
   {
+    "id": 485,
+    "title": "Max Consecutive Ones",
+    "title_slug": "max-consecutive-ones",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 912,
     "title": "Sort an Array",
     "title_slug": "sort-an-array",
