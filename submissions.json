@@ -10,6 +10,16 @@
     ]
   },
   {
+    "id": 283,
+    "title": "Move Zeroes",
+    "title_slug": "move-zeroes",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 485,
     "title": "Max Consecutive Ones",
     "title_slug": "max-consecutive-ones",
