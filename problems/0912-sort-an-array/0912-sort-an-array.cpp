@@ -1,3 +1,4 @@
+//Dutch Algorithm
 class Solution {
 private:
     void quickSort3Way(vector<int>& arr, int low, int high) {
@@ -23,3 +24,4 @@ public:
         return nums;
     }
 };
+//https://youtu.be/ihNJWLadLHI
