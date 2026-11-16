@@ -11,3 +11,8 @@ public:
         }
     }
 };
+/*
+Brute Force Approach:
+first take all the non-zeros element from nums, then put them into temp array
+then put them back from left side of nums array and fills up all the remaining elements with 0
+*/
