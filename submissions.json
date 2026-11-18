@@ -20,6 +20,19 @@
     ]
   },
   {
+    "id": 75,
+    "title": "Sort Colors",
+    "title_slug": "sort-colors",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bubble Sort",
+      "Quicksort",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 189,
     "title": "Rotate Array",
     "title_slug": "rotate-array",
