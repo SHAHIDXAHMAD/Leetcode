@@ -6,6 +6,7 @@
 
 | # | Title | Difficulty | Skills |
 |---| ----- | ---------- | ------ |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | `Array` `Hash Table` |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | `Array` `Two Pointers` |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | Medium | `Array` `Math` `Two Pointers` |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy | `Array` `Binary Search` `Bit Manipulation` `Hash Table` `Math` `Sorting` |
